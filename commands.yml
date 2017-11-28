@@ -8,6 +8,7 @@
   return: "A baren is used to apply pressure to the paper when printing. It is made of woven bamboo cords coiled into a disc and wrapped in a thin bamboo sheath."
 "!persuader":
   return: "Hold on to your butts"
+  
 
 # Process
 "!info":
@@ -46,6 +47,8 @@
   return: "More information about the owl Dave is printing: http://woodblock.com/gift/index.php"
 "!ghibli":
   return: "Dave's business is so busy at the moment that he does not have time to think about the Studio Ghibli project. In addition, Studio Ghibli is not the ones who hold the creative rights to the projects, so he would have to negotiate with the publishing company before anything can be attempted."
+"!ink-incoming"
+  return: "Riperoni peppeproni."
 
 # Bot
 "!bot":
